@@ -1,0 +1,12 @@
+GLISTEN SCHOOLS — PREMIUM V6 UPDATE
+
+Completed:
+- Placed desktop navbar tabs on a deep-blue coloured strip with gold premium hover/active effects.
+- Improved dropdown animations and mobile navigation contrast.
+- Rebuilt the image lightbox with visible Back, Previous, Next, Close, counter, keyboard/swipe support and an image loading indicator.
+- Added the fifth Uhuru Torch image to the central event system, homepage highlight, Highlights page and Gallery.
+- Repaired contrast for CTA labels and sections including Your next step, Visit Glisten Schools, Need guidance, Learn more, and Preparatory admission information.
+- Rebuilt Contact Us using direct, premium, school-specific contact cards generated from js/site-content.js.
+- Moved the Glisten Preparatory identity card below its homepage image for a clean fitted layout.
+- Added a final, maintainable CSS override layer: css/final-premium-v6.css.
+- Expanded SITE_EDITING_GUIDE.md so future content can be updated centrally.

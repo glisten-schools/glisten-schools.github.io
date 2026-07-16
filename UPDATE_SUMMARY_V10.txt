@@ -1,0 +1,11 @@
+GLISTEN PREMIUM V10
+
+Major navigation reconstruction and premium refinement:
+
+1. Rebuilt the desktop navbar using a true three-column layout. The main navigation is mathematically centred between the school brand and Contact action.
+2. Separated Contact Us into a premium desktop action while retaining it inside the mobile menu.
+3. Improved the brand area with a refined logo frame, school name, motto, and Mirerani location chips.
+4. Added an earlier responsive breakpoint so navigation never crowds on medium laptop and tablet widths.
+5. Redesigned mobile navigation into a clean two-column panel, becoming one column on small phones.
+6. Refined dropdowns, active states, icons, shadows, progress line, buttons, page heroes, image frames, cards, CTA panels, and footer detailing.
+7. Preserved the V9 image viewer improvements, section-based image grouping, portrait fitting, and hanging home identity card.

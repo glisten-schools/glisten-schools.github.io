@@ -1,0 +1,13 @@
+GLISTEN WEBSITE UPDATE V17 — SOCIAL MEDIA + PUBLIC CALENDAR
+
+1. Added a separate very thin premium social-media strip above the complete school identity/navbar area.
+2. Added Instagram, Facebook and YouTube links in the requested order.
+3. Social links open in new tabs.
+4. Added a premium Follow Glisten section in the footer.
+5. Added a compact Connect With Us panel to the Contact Us page.
+6. Added colour-reveal hover effects for Instagram, Facebook and YouTube buttons.
+7. Added Public School Calendar under School Life with a New badge.
+8. Added a small premium homepage announcement directly below the hero.
+9. Added a dedicated responsive Public School Calendar page.
+10. Added a downloadable public PDF calendar and removed internal staff-only activities from public display.
+11. All existing pages, content and functionality were preserved.

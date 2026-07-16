@@ -1,0 +1,18 @@
+GLISTEN PREMIUM WEBSITE — V16 NAVBAR CORRECTION
+
+Only the navbar was changed.
+
+1. Motto contrast fixed at every breakpoint
+   - Bright warm-white text
+   - Deep navy background
+   - Clear gold border and marker
+   - No inherited opacity/filter conflict
+
+2. Dropdown selection made reliable
+   - Dropdown panel now touches the parent hover area
+   - Larger invisible hover corridor
+   - Pointer entry on both parent and panel keeps it open
+   - 850ms forgiving close delay
+   - Works on ordinary and hybrid/touch-capable laptops
+
+All website content, pages, images and layout outside the navbar remain unchanged.

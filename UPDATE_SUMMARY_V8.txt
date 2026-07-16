@@ -1,0 +1,46 @@
+GLISTEN SCHOOLS WEBSITE — PREMIUM V8 UPDATE
+===========================================
+
+1. FULL-SCREEN IMAGE VIEWER
+- All openable images now use their original high-resolution files.
+- The complete image is shown by default without cropping.
+- Added Actual Size / Fit Image switching.
+- Actual-size images can be panned when larger than the screen.
+- Added Back, Close, Previous and Next controls.
+- Added keyboard navigation, swipe navigation, focus trapping and focus restoration.
+- Added image counters, captions, neighbour preloading and a clear load-error message.
+
+2. SMOOTHER, STABLE NAVIGATION
+- Header height now remains fixed while scrolling to prevent shaking.
+- Scrolling changes only the header depth/background, not its dimensions.
+- Removed continuous navbar sheen and unnecessary aura motion.
+- Simplified hover movement for a calmer premium feel.
+
+3. FASTER PAGE EXPERIENCE
+- Removed artificial page loading screens and delayed internal navigation.
+- Consolidated four production stylesheets into css/glisten-site.css.
+- Added lightweight mobile-specific thumbnails.
+- Added responsive srcset and sizes attributes to static content images.
+- Added a lighter homepage hero image for phones.
+- Added mobile versions of all Glisten Preparatory slider images.
+- The full originals remain available only when a visitor opens an image.
+
+4. ACCESSIBILITY AND USABILITY
+- Added a slideshow Pause/Play control.
+- Inactive slides are hidden correctly from assistive technology.
+- Added gallery filter status announcements and aria-pressed states.
+- Added arrow-key navigation to Admission tabs.
+- Added clearer focus outlines to image-opening controls.
+- Improved reduced-motion behaviour.
+
+5. VISUAL REFINEMENT
+- Reduced excessive hover movement and expensive continuous effects.
+- Improved text readability on dark call-to-action surfaces.
+- Added full-screen viewer layouts for desktop, tablet and mobile.
+
+VALIDATION
+- 10 HTML pages checked.
+- 178 local references checked.
+- No missing local image, CSS, JavaScript or page references found.
+- No duplicate HTML IDs found.
+- All JavaScript files passed syntax validation.

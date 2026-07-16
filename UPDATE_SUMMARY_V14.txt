@@ -1,0 +1,14 @@
+GLISTEN PREMIUM WEBSITE — V14 UNIFIED NAVBAR
+
+This update changes only the shared navigation header.
+
+Completed:
+- Merged the school identity, navigation links and Contact Us button into one single desktop row.
+- Replaced the space-consuming white upper row + navy lower strip with one unified premium navy bar.
+- Preserved Glisten's navy, blue, white and gold colour identity.
+- Retained the larger V13 fonts, active states and premium hover effects.
+- Retained the large, forgiving dropdown menus and protected hover bridge.
+- Added responsive compact tuning for 1050–1279px and 1280–1439px laptop widths.
+- Kept mobile navigation unchanged and functional.
+- Kept “MIRERANI” removed after the school motto.
+- No page content, images, sections or footer content were changed.

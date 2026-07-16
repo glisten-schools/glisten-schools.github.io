@@ -1,0 +1,7 @@
+GLISTEN PREMIUM WEBSITE — V15 NAVBAR ACCESSIBILITY FIX
+
+Only two navbar refinements were made:
+1. Improved contrast for the "TOGETHER WE EXCEL" motto beneath the school name.
+2. Made desktop dropdowns easier to enter and select by adding a larger hover-safe bridge and a short hover-intent close delay.
+
+The unified single-row V14 navbar layout and all other website content remain unchanged.

@@ -1,0 +1,16 @@
+GLISTEN PREMIUM V13 — NAVBAR REFINEMENT
+
+Updated only the shared navbar styling.
+
+- Added a longer two-level desktop header inspired by the supplied reference.
+- Preserved Glisten's navy, blue, white and gold colour palette.
+- Increased school-name, motto, navigation and dropdown font sizes.
+- Moved the centred navigation into a premium navy lower strip.
+- Enlarged the logo and desktop Contact Us action.
+- Added smooth gold hover indicators, elevation and active states.
+- Enlarged dropdown panels and clickable menu choices.
+- Added a forgiving invisible hover bridge so dropdowns stay open while the mouse moves into them.
+- Improved keyboard focus and click-open behaviour through the existing navigation script.
+- Increased tablet and mobile menu and dropdown target sizes.
+- The word “MIRERANI” remains removed from the navbar motto area.
+- No page content, images, sections or footer content were changed.

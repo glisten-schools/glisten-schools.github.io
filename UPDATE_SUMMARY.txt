@@ -1,0 +1,42 @@
+GLISTEN SCHOOLS PREMIUM UPDATE
+
+1. Added a dedicated Glisten Preparatory page.
+2. Added the Glisten Preparatory logo, pupils' photographs, activity photographs, and Head Teacher Agnes Adolf Cosmas.
+3. Added the 2021 and 2025 Standard Seven achievement trophies on the homepage and Standard Seven Results page.
+4. Added direct year anchors and official result links that open in new tabs.
+5. Added the Our Schools dropdown across the website.
+6. Updated About, Academics, Admissions, Contact, Gallery, Results, footer, and homepage content.
+7. Clarified that Glisten Pre and Primary School serves Standard One to Standard Seven.
+8. Added two selectable Admissions panels for the two schools.
+9. Added a dedicated Glisten Preparatory gallery filter.
+10. Added Preparatory Call and WhatsApp floating buttons on relevant pages.
+11. Removed the top strip above the navbar.
+12. Improved hover effects, text contrast, navigation, mobile responsiveness, image lightboxes, accessibility, and page transitions.
+13. Optimised the image assets for faster loading while preserving strong visual quality.
+
+FINAL PREMIUM REFINEMENT
+- Gallery label “Pre & Primary” changed to “Glisten”.
+- Navbar upgraded with compact glass styling, animated underlines, smoother dropdown transitions, premium submenu cards, and refined mobile navigation.
+- Footer reduced in height and refined with stronger spacing, typography, and subtle premium detailing.
+- Cards across all pages reduced in size, with improved shadows, borders, spacing, hover movement, and text contrast.
+- Gallery grid made more compact, using four columns on wide desktop screens.
+- Global buttons, section spacing, result cards, trophy cards, contact cards, admissions cards, and calls-to-action refined for a consistent premium appearance.
+
+
+LATEST PREMIUM INTERACTION UPDATE
+- Strengthened hover effects throughout every page.
+- Added a richer glass-and-gold navbar with animated dropdown entries.
+- Added Previous and Next controls, arrow-key navigation, image counter, and swipe navigation to lightboxes.
+
+
+LATEST PREMIUM EXPERIENCE UPDATE
+--------------------------------
+- Rebuilt the shared navbar as a central reusable component with richer blue, gold, glass, glow, active-state, hover, and animated dropdown effects.
+- Centralised shared navigation, footer, school details, contacts, and event content in js/site-content.js.
+- Added js/components.js so navbar and footer changes now update every page automatically.
+- Added a new Highlights page for important school visits and events.
+- Added the Uhuru Torch visit photographs to the homepage highlight, Highlights page, and Gallery School Events category.
+- Added page-loading indicator, image-loading shimmer, scroll reading progress, page transitions, button ripples, pointer-aware card glow, and stronger entrance animations.
+- Strengthened premium hover effects across About Us, Academics, Admissions, Contact Us, Results, Gallery, Preparatory, and homepage sections.
+- Added SITE_EDITING_GUIDE.md to make future updates easier.
+- Added css/premium.css as a separate design layer so premium styles can be adjusted without disturbing the original layout.

@@ -1,0 +1,10 @@
+GLISTEN PREMIUM V9
+
+Completed additional premium improvements based on feedback:
+
+1. Improved text contrast for event links such as "Open Event Photos".
+2. Refined the full-screen image viewer so portrait images fit better on screen.
+3. Prevented standalone images from opening into unrelated page images and logos by grouping images by section and excluding logo-type images.
+4. Upgraded the general navbar and brand area with a more premium, stable style.
+5. Added a hanging premium effect to the home identity card.
+6. Added extra premium polish to cards and content surfaces across the site.

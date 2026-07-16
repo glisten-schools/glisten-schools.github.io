@@ -1,0 +1,13 @@
+GLISTEN PREMIUM V11
+
+Critical repairs completed after careful screenshot review:
+
+1. Rebuilt the navbar with balanced equal side columns on large screens.
+2. Removed school-name truncation and reduced nested visual clutter.
+3. Fixed the homepage active-state conflict so Home and Our Schools are not both highlighted.
+4. Simplified desktop navigation icons and dropdown carets.
+5. Added an earlier responsive hamburger breakpoint to prevent crowding.
+6. Restored dark backgrounds and readable white text for every CTA panel.
+7. Restored the orange Preparatory contact panel and readable contact details.
+8. Restored the final Contact page CTA contrast.
+9. Added responsive navbar rules for tablets and phones.

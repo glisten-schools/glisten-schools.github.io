@@ -1,0 +1,29 @@
+GLISTEN SCHOOLS — PREMIUM PERFORMANCE V7
+
+Main fixes
+- Fixed the cause of image links opening as raw browser images. Internal page transitions now ignore every lightbox and image-file link.
+- Back, Previous, Next, Close and the image counter remain visibly available inside the image viewer.
+- Previous and Next stay visible even when a group has one image; they are simply disabled.
+- Normal content photographs can now be clicked or opened with Enter to use the same premium viewer.
+
+Loading and scrolling improvements
+- Converted large photographs and trophy graphics to efficient WebP files.
+- Added lightweight card/gallery thumbnails while retaining larger images for the viewer.
+- Reduced the website package from about 21 MB to about 12 MB.
+- Gallery and event cards load thumbnails instead of full-resolution photographs.
+- Glisten Preparatory slider backgrounds now load progressively rather than all at once.
+- Removed per-card pointer tracking, persistent GPU layers, blur-heavy reveal effects and continuous navbar sheen.
+- Throttled scroll/progress updates with requestAnimationFrame.
+- The branded loader now clears after the document is ready instead of waiting for every photograph.
+- Added content-visibility for below-the-fold sections.
+
+Premium refinements
+- Added a cleaner high-contrast image viewer with unmistakable controls on desktop and mobile.
+- Refined navbar, dropdown, card, button and image hover effects using lightweight transitions.
+- Kept touch devices free from unnecessary desktop hover work.
+- Added keyboard focus styling for photographs that open in the viewer.
+
+Future image updates
+- Run OPTIMIZE_NEW_IMAGES.bat after adding JPG or PNG photographs.
+- The script creates full WebP files and lightweight thumbnails automatically.
+- Final visual and performance overrides are in css/premium-performance-v7.css.
